@@ -1,0 +1,6 @@
+framework module SCFrameWork {
+  umbrella header "SCFrameWork.h"
+
+  export *
+  module * { export * }
+}
